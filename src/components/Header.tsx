@@ -1,3 +1,5 @@
+import "./Header1.css"
+
 function Header(){
     return(
 <header className="header">

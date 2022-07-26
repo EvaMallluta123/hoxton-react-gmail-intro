@@ -1,3 +1,4 @@
+import "./Challange.css"
 function Challange(){
     return(
         <div className="email-action-icons">
